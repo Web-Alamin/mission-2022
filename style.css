@@ -12,8 +12,8 @@ span{
     color: rgb(27, 132, 202);
 }
 
-#border{
-    border-left: 5px solid rgb(174, 220, 221);
+.border{
+    border-left: 7px solid rgb(174, 220, 221);
 }
 
 .button{
@@ -112,4 +112,30 @@ footer{
     height: 150px;
     margin: 0;
     padding: 10px;
+}
+.unicef h1{
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+.unicef{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+}
+.uni{
+    width: 50%;
+}
+.unicef img{
+    width: 90%;
+    height: 50%;
+    margin-bottom: 90%;
+}
+#uni-text{
+    margin-top: 20%;
+    margin-left: 10%;
+    
+}
+.center{
+    text-align: center;
 }
