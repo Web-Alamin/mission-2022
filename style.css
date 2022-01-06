@@ -8,7 +8,7 @@ body{
     font-size: 60px;
     
 }
-.focus-mission span{
+span{
     color: rgb(27, 132, 202);
 }
 
@@ -104,4 +104,11 @@ body{
 }
 #community{
     margin-left: 40px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 100px;
+    padding: 30px;
 }
